@@ -1,6 +1,10 @@
 # 10digits-Files-Renamer 
 
 
+Rename Files in the Current Working Directory with Random 10digits number
+
+
+#### The script has been compiled to work on Windows as "Rename_Files_with_Random_10digits_num.exe", so you could just copy it in your working directory and run it there. It will rename all files in the current working directory.
 
 With this script you can rename all files in the current working directory with Random 10digits number filenames.
 
